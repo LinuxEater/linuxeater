@@ -190,6 +190,7 @@ focado em aprender coisas novas e me aprofundando nas que eu já sei. Meus maior
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinuxEater&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
