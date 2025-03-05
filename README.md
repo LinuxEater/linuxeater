@@ -154,6 +154,14 @@ focado em aprender coisas novas e me aprofundando nas que eu já sei. Meus maior
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" 
 />
+<img 
+    align="left" 
+    alt="mongo" 
+    title="mongo"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" 
+/>
 <br/>
 <br/>
 
