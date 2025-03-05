@@ -5,16 +5,6 @@
 Me chamo Moisés Souza Santos, tenho 24 anos e sou natural do estado de Minas Gerais. Sou um indivíduo extremamente curioso e crítico, passando a maior parte do meu tempo
 focado em aprender coisas novas e me aprofundando nas que eu já sei. Meus maiores interesses são desenvolvimento web, mobile e cibersegurança".
 
-<p align="left">
-    <a href="https://github.com/LinuxEater">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LinuxEater?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
