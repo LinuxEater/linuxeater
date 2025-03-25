@@ -138,3 +138,10 @@ My name is Moisés Souza Santos, I am 24 years old and I am from the state of Mi
 ###
 
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/LinuxEater/LinuxEater/output/snake.svg" alt="Snake animation" />
+
+###
+
+
