@@ -173,8 +173,6 @@ focado em aprender coisas novas e me aprofundando nas que eu já sei. Meus maior
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
-<br/>
-<br/>
 
 ### 📊 Estatísticas
 
@@ -182,7 +180,6 @@ focado em aprender coisas novas e me aprofundando nas que eu já sei. Meus maior
   <img src="https://github-readme-stats.vercel.app/api?username=LinuxEater&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="200" style="max-width: 100%; height: auto;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinuxEater&layout=compact&theme=tokyonight" alt="GitHub Top Languages" height="200" style="max-width: 100%; height: auto;">
 </div>
-
 
 ---
 <p align="left">
