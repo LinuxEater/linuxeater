@@ -152,7 +152,6 @@ focado em aprender coisas novas e me aprofundando nas que eu já sei. Meus maior
 
 ### 📊 Estatísticas
 
-
 <p>
   <img 
     align="left" 
@@ -170,9 +169,8 @@ focado em aprender coisas novas e me aprofundando nas que eu já sei. Meus maior
   />
 </p>
 
-</br>
-</br>
 ---
+
 </br>
 </br>
 
