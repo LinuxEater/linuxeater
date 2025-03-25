@@ -9,6 +9,8 @@
 Me chamo Moisés Souza Santos, tenho 24 anos e sou natural do estado de Minas Gerais. Sou um indivíduo extremamente curioso e crítico, passando a maior parte do meu tempo
 focado em aprender coisas novas e me aprofundando nas que eu já sei. Meus maiores interesses são desenvolvimento web, mobile, cibersegurança e estudo de idiomas.
 
+</br>
+
 
 ### 🤖 Linguagens e Tecnologias
 
