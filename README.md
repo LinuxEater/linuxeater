@@ -174,6 +174,9 @@ focado em aprender coisas novas e me aprofundando nas que eu já sei. Meus maior
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 
+---
+
+
 ### 📊 Estatísticas
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
