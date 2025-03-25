@@ -179,8 +179,9 @@ focado em aprender coisas novas e me aprofundando nas que eu já sei. Meus maior
 ---
 
 
-### 📊 Estatísticas
+</br>
 
+### 📊 Estatísticas
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=LinuxEater&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="200" style="max-width: 100%; height: auto;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinuxEater&layout=compact&theme=tokyonight" alt="GitHub Top Languages" height="200" style="max-width: 100%; height: auto;">
