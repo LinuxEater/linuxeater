@@ -181,14 +181,8 @@ focado em aprender coisas novas e me aprofundando nas que eu já sei. Meus maior
 
 
 
-
-
-</br>
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="flex">Hello World</h1></summary>
-</div>
-
+<br/>
+<br/>
 
 
 ### 📊 Estatísticas
@@ -197,6 +191,24 @@ focado em aprender coisas novas e me aprofundando nas que eu já sei. Meus maior
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinuxEater&layout=compact&theme=tokyonight" alt="GitHub Top Languages" height="200" style="max-width: 100%; height: auto;">
 </div>
 
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 ---
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
