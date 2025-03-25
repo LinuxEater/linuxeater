@@ -128,20 +128,13 @@ My name is Moisés Souza Santos, I am 24 years old and I am from the state of Mi
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LinuxEater&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+###
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinuxEater&theme=tokyonight&layout=compact&custom_title=Most_Useds&langs_count=9" 
-  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LinuxEater&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LinuxEater&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-</p>
+###
+
+
