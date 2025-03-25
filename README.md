@@ -186,7 +186,7 @@ focado em aprender coisas novas e me aprofundando nas que eu já sei. Meus maior
 </br>
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="flex">Hello World</h1></summary>
 </div>
 
 
