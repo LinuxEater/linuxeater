@@ -2,6 +2,8 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
+
+    
 # 👩🏻‍💻 Moisés Souza
 
 **`Engenheiro de Software`**
@@ -176,6 +178,10 @@ focado em aprender coisas novas e me aprofundando nas que eu já sei. Meus maior
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
+
+
+
+
 
 </br>
 
