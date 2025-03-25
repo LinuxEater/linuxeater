@@ -124,22 +124,6 @@ focado em aprender coisas novas e me aprofundando nas que eu já sei. Meus maior
 />
 <img 
     align="left" 
-    alt="CPLUSPLUS" 
-    title="CPLUSPLUS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CPLUSPLUS" 
-    title="CPLUSPLUS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
     alt="postgre" 
     title="postgre"
     width="30px" 
