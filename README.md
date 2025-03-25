@@ -84,6 +84,14 @@ My name is Moisés Souza Santos, I am 24 years old and I am from the state of Mi
 />
 <img 
     align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
     alt="django" 
     title="django"
     width="30px" 
@@ -116,12 +124,29 @@ My name is Moisés Souza Santos, I am 24 years old and I am from the state of Mi
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Postgres" 
+    title="Postgres"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" 
 />
+<img 
+    align="left" 
+    alt="Sqlite3" 
+    title="Sqlite3"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="mongodb" 
+    title="mongodb"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" 
+/>
+
 
 <br/>
 <br/>
