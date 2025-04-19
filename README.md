@@ -2,8 +2,8 @@
 <h3 align="center">Software Engineer | Web & Mobile Developer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:your@email.com">✉️ Contact</a> •
-  <a href="https://www.linkedin.com/in/yourlinkedin">LinkedIn</a> •
+  <a href="mailto:moisessouzasantos001@gmail.com">✉️ Contact</a> •
+  <a href="https://www.linkedin.com/in/mois%C3%A9s-souza-6746a3190/">LinkedIn</a> •
   <a href="https://yourportfolio.com">Portfolio</a>
 </p>
 
@@ -19,7 +19,7 @@ My main interests include **web and mobile development**, **cybersecurity**, and
 ### 🛠️ Tech Stack
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
@@ -63,13 +63,57 @@ My main interests include **web and mobile development**, **cybersecurity**, and
 
 ### 🚀 Featured Projects
 
-Here are some of my notable projects:
+Here are some of my most notable projects, with insights into how I built and improved them using my preferred tech stack:
 
-- 🧠 [Employees-Django-System](https://github.com/LinuxEater/Employees-Django-System) – A Django-based system for managing employee records, featuring CRUD operations and authentication.
+- 🧠 **[Employees-Django-System](https://github.com/LinuxEater/Employees-Django-System)**  
+  A Django-based system for managing employee records, with authentication and CRUD operations.  
+  **Stack:** Django, Python, Bootstrap, SQLite  
+  **Highlights:** Improved query efficiency, clean UI layout.
 
-- 📱 [TODO-Django-app](https://github.com/LinuxEater/TODO-Django-app) – A simple to-do list application built with Django, allowing users to add, edit, and delete tasks.
+- 📱 **[TODO-Django-app](https://github.com/LinuxEater/TODO-Django-app)**  
+  A task management app with authentication and CRUD capabilities.  
+  **Stack:** Django, HTML, CSS  
+  **Highlights:** Streamlined user experience and added task filtering.
 
-- 🌐 [Scrapper-site](https://github.com/LinuxEater/Scrapper-site) – A web scraper built in Python to extract data from websites efficiently.
+- 🌐 **[Scrapper-site](https://github.com/LinuxEater/Scrapper-site)**  
+  Python-based web scraper for extracting data from websites.  
+  **Stack:** Python, Selenium, BeautifulSoup  
+  **Highlights:** Added dynamic scraping and data export options.
+
+- 📊 **[Crypto-Tracker](https://github.com/LinuxEater/Crypto-Tracker)**  
+  React app to monitor cryptocurrency prices in real time.  
+  **Stack:** React, Tailwind CSS, Axios  
+  **Highlights:** Smooth UX with API integration and live data.
+
+- 🔐 **[Password-Strength-Checker](https://github.com/LinuxEater/Password-Strength-Checker)**  
+  Checks password strength using entropy and provides visual feedback.  
+  **Stack:** JavaScript, HTML, CSS  
+  **Highlights:** Educational tool with real-time validation.
+
+- 📝 **[Notes-App](https://github.com/LinuxEater/Notes-App)**  
+  Simple notes app supporting Markdown and tags.  
+  **Stack:** JavaScript, HTML, CSS  
+  **Highlights:** Local storage, clean design, markdown support.
+
+- 🛍️ **[Mini-Ecommerce](https://github.com/LinuxEater/Mini-Ecommerce)**  
+  A basic e-commerce interface with cart and product listing.  
+  **Stack:** React, Tailwind CSS, Redux  
+  **Highlights:** Redux-based cart system and responsive design.
+
+- 📚 **[Book-Search-App](https://github.com/LinuxEater/Book-Search-App)**  
+  Allows users to search books via Google Books API and save favorites.  
+  **Stack:** React, TypeScript, Styled Components  
+  **Highlights:** Clean UI and local caching.
+
+- 🧪 **[Form-Validator](https://github.com/LinuxEater/Form-Validator)**  
+  Client-side form validation script for HTML forms.  
+  **Stack:** JavaScript, CSS  
+  **Highlights:** Real-time validation and reusable logic.
+
+- 📦 **[API-Dashboard](https://github.com/LinuxEater/API-Dashboard)**  
+  Dashboard for API data monitoring and charting.  
+  **Stack:** Next.js, Chart.js, Tailwind CSS  
+  **Highlights:** Data visualization and SSR optimizations.
 
 ---
 
@@ -77,8 +121,9 @@ Here are some of my notable projects:
 
 If you're interested in working together, collaborating or just want to say hi:
 
-📧 **your@email.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)  
+📧 **moisessouzasantos001@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/mois%C3%A9s-souza-6746a3190/)  
+📱 [WhatsApp](https://wa.me/5538998189765)  
 🌐 [Portfolio](https://yourportfolio.com)
 
 ---
