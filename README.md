@@ -18,7 +18,54 @@ My main interests include **web and mobile development**, **cybersecurity**, and
 - 📚 Over 50 certifications in the tech field  
 - 🌍 Fluent in English, learning Norwegian 🇳🇴 and Japanese 🇯🇵  
 - 🚀 Actively looking for internship opportunities in tech  
-- ❤️ Passionate about building meaningful projects and making a difference through technology  
+- ❤️ Passionate about building meaningful projects and making a difference through technology
+
+---
+
+### 🏆 Featured Certifications
+
+<table>
+  <tr>
+    <td>📱</td>
+    <td><strong>Responsive Web Design</strong><br/>freeCodeCamp</td>
+  </tr>
+  <tr>
+    <td>⚙️</td>
+    <td><strong>JavaScript Algorithms and Data Structures</strong><br/>freeCodeCamp</td>
+  </tr>
+  <tr>
+    <td>🎨</td>
+    <td><strong>Front-End Development</strong><br/>Digital Innovation One (DIO)</td>
+  </tr>
+  <tr>
+    <td>📄</td>
+    <td><strong>HTML & CSS for Beginners</strong><br/>Curso em Vídeo</td>
+  </tr>
+  <tr>
+    <td>🧠</td>
+    <td><strong>JavaScript Moderno (ES6+)</strong><br/>Origamid</td>
+  </tr>
+  <tr>
+    <td>🔧</td>
+    <td><strong>Git e GitHub para Iniciantes</strong><br/>DIO</td>
+  </tr>
+  <tr>
+    <td>⚛️</td>
+    <td><strong>Introdução ao React</strong><br/>Alura</td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td><strong>Node.js e Express</strong><br/>DIO</td>
+  </tr>
+  <tr>
+    <td>💼</td>
+    <td><strong>Desenvolvimento Web Full Stack</strong><br/>Fundação Bradesco</td>
+  </tr>
+</table>
+
+> 💡 I've completed over 50 certifications in technology, focusing on Web Development and related tools.
+
+
 
 ---
 
