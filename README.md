@@ -13,6 +13,12 @@
 
 My name is **Moisés Souza Santos**, I’m 24 years old and based in Minas Gerais, Brazil. I’m a curious and analytical developer, always seeking to learn new technologies and deepen my existing skills.  
 My main interests include **web and mobile development**, **cybersecurity**, and **language learning**.
+- 🎓 Computer Engineering student  
+- 💻 Focused on Web Development
+- 📚 Over 50 certifications in the tech field  
+- 🌍 Fluent in English, learning Norwegian 🇳🇴 and Japanese 🇯🇵  
+- 🚀 Actively looking for internship opportunities in tech  
+- ❤️ Passionate about building meaningful projects and making a difference through technology  
 
 ---
 
