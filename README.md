@@ -117,6 +117,12 @@ Here are some of my most notable projects, with insights into how I built and im
 
 ---
 
+<p align="center">
+    <img src="https://media1.tenor.com/m/LQ_hjkLNJDkAAAAd/hacker-matrix.gif" width="1000" height="300">
+</p>
+
+---
+
 ### 📬 Contact Me
 
 If you're interested in working together, collaborating or just want to say hi:
