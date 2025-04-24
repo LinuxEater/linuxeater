@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:moisessouzasantos001@gmail.com">✉️ Contact</a> •
   <a href="https://www.linkedin.com/in/mois%C3%A9s-souza-6746a3190/">LinkedIn</a> •
-  <a href="https://yourportfolio.com">Portfolio</a>
+  <a href="https://portfolio-moises01.netlify.app/">Portfolio</a>
 </p>
 
 ---
@@ -183,7 +183,7 @@ If you're interested in working together, collaborating or just want to say hi:
 📧 **moisessouzasantos001@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/mois%C3%A9s-souza-6746a3190/)  
 📱 [WhatsApp](https://wa.me/5538998189765)  
-🌐 [Portfolio](https://yourportfolio.com)
+🌐 [Portfolio](https://portfolio-moises01.netlify.app/)
 
 ---
 
