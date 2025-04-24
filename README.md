@@ -3,8 +3,9 @@
 
 <p align="center">
   <a href="mailto:moisessouzasantos001@gmail.com">✉️ Contact</a> •
-  <a href="https://www.linkedin.com/in/mois%C3%A9s-souza-6746a3190/">LinkedIn</a> •
-  <a href="https://portfolio-moises01.netlify.app/">Portfolio</a>
+  <a href="https://www.linkedin.com/in/mois%C3%A9s-souza-6746a3190/">💼 LinkedIn</a> •
+  <a href="https://portfolio-moises01.netlify.app/">🧑‍💼 Portfolio</a> •
+  <a href="https://www.youtube.com/@MoisesSouza577">🔴 Youtube</a>
 </p>
 
 ---
@@ -173,6 +174,19 @@ Here are some of my most notable projects, with insights into how I built and im
 <p align="center">
     <img src="https://media1.tenor.com/m/LQ_hjkLNJDkAAAAd/hacker-matrix.gif" width="1000" height="300">
 </p>
+
+---
+
+### 🎥 Latest YouTube Videos
+
+Stay tuned with my latest development content on YouTube:
+
+- [🔗 TODO Django Wen App](https://www.youtube.com/watch?v=eqeZ8Y5HoaY)  
+- [🔗 Employees System Management](https://www.youtube.com/watch?v=q6Ho0WyKYFQ)  
+- [🔗 Personal Portfolio 🔥](https://www.youtube.com/watch?v=Ckf3m6astcE)
+
+> 📺 [Subscribe to my channel](https://www.youtube.com/@MoisesSouza577)
+
 
 ---
 
