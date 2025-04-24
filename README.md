@@ -181,7 +181,7 @@ Here are some of my most notable projects, with insights into how I built and im
 
 Stay tuned with my latest development content on YouTube:
 
-- [🔗 TODO Django Wen App](https://www.youtube.com/watch?v=eqeZ8Y5HoaY)  
+- [🔗 TODO Django Web App](https://www.youtube.com/watch?v=eqeZ8Y5HoaY)  
 - [🔗 Employees System Management](https://www.youtube.com/watch?v=q6Ho0WyKYFQ)  
 - [🔗 Personal Portfolio 🔥](https://www.youtube.com/watch?v=Ckf3m6astcE)
 
