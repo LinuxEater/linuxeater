@@ -2,10 +2,11 @@
 <h3 align="center">Software Engineer | Web & Mobile Developer | Web Scrapper</h3>
 
 <p align="center">
-  <a href="mailto:moisessouzasantos001@gmail.com">✉️ Contact</a> •
+ • <a href="mailto:moisessouzasantos001@gmail.com">✉️ E-mail</a> •
   <a href="https://www.linkedin.com/in/mois%C3%A9s-souza-6746a3190/">💼 LinkedIn</a> •
   <a href="https://portfolio-moises01.netlify.app/">🧑‍💼 Portfolio</a> •
-  <a href="https://www.youtube.com/@MoisesSouza577">🔴 Youtube</a>
+  <a href="https://www.youtube.com/@MoisesSouza577">🔴 Youtube</a> •
+  <a href="https://wa.me/5538998189765">📱 WhatsApp</a>
 </p>
 
 ---
