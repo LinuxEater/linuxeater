@@ -102,14 +102,14 @@ My main interests include **web and mobile development**, **cybersecurity**, and
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=LinuxEater&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LinuxEater&show_icons=true&theme=dark&count_private=true&hide_border=false" height="160"/>
   
   <!-- Linguagens Mais Usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinuxEater&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinuxEater&layout=compact&langs_count=6&theme=dark&hide_border=false" height="160"/>
 
   <!-- Heatmap de Contribuições -->
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LinuxEater&theme=tokyonight&hide_border=false" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LinuxEater&theme=dark&hide_border=false" height="160"/>
 
 </div>
 
