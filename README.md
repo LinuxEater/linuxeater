@@ -139,38 +139,38 @@ My main interests include **web and mobile development**, **cybersecurity**, and
 <ul style="list-style-type:none; padding-left:0; max-width:700px; text-align:left;">
 
   <li>  
-    <strong>🌐 <a href="https://github.com/LinuxEater/new_portfolio_django" target="_blank">new_portfolio_django</a></strong><br/>
     <img src="https://via.placeholder.com/700x400?text=Project+Screenshot+Portfolio" alt="new_portfolio_django" /><br/>
+    <strong>🌐 <a href="https://github.com/LinuxEater/new_portfolio_django" target="_blank">new_portfolio_django</a></strong><br/>
     A personal portfolio website built with Django, featuring a fully responsive design, dynamic content management, and clean UI for showcasing skills and projects.<br/>
     <em>Stack:</em> Django, Python, HTML, CSS<br/><br/>
   </li><br/>
 
   <li>
+    <img src="https://via.placeholder.com/700x400?text=Webscraping+Project" alt="Webscraping" /><br/>
     <strong>🤖 <a href="https://github.com/LinuxEater/Webscraping" target="_blank">Webscraping</a></strong><br/>
     Collection of web scraping scripts and automation tools designed to gather and analyze data from diverse websites efficiently.<br/>
     <em>Stack:</em> Python, Selenium, BeautifulSoup<br/><br/>
-    <img src="https://via.placeholder.com/700x400?text=Webscraping+Project" alt="Webscraping" />
   </li><br/>
 
   <li>
+    <img src="https://via.placeholder.com/700x400?text=CarStore+Project" alt="CarStore Project" /><br/>
     <strong>🚗 <a href="https://github.com/LinuxEater/CarStore_Project" target="_blank">CarStore_Project</a></strong><br/>
     E-commerce platform for buying and selling cars, featuring user authentication, product management, and a user-friendly interface.<br/>
     <em>Stack:</em> Django, Python, JavaScript, Bootstrap<br/><br/>
-    <img src="https://via.placeholder.com/700x400?text=CarStore+Project" alt="CarStore Project" />
   </li><br/>
 
   <li>
+    <img src="https://via.placeholder.com/700x400?text=Investments+Dashboard" alt="Investments Dashboard" /><br/>
     <strong>📊 <a href="https://github.com/LinuxEater/Investments-Dashboard" target="_blank">Investments-Dashboard</a></strong><br/>
     Interactive dashboard application for monitoring investment portfolios with real-time data visualization and analytics.<br/>
     <em>Stack:</em> React, Chart.js, Tailwind CSS<br/><br/>
-    <img src="https://via.placeholder.com/700x400?text=Investments+Dashboard" alt="Investments Dashboard" />
   </li><br/>
 
   <li>
+    <img src="https://via.placeholder.com/700x400?text=Blog+P+News" alt="Blog-P-News" /><br/>
     <strong>📰 <a href="https://github.com/LinuxEater/Blog-P-News" target="_blank">Blog-P-News</a></strong><br/>
     Blogging platform focused on news articles, equipped with content management features and a clean, readable layout.<br/>
     <em>Stack:</em> Django, HTML, CSS<br/><br/>
-    <img src="https://via.placeholder.com/700x400?text=Blog+P+News" alt="Blog-P-News" />
   </li>
 
 </ul>
