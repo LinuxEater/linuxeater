@@ -24,10 +24,8 @@ My main interests include **web and mobile development**, **cybersecurity**, and
 
 ---
 
-### 🏆 Featured Certifications
-
-
 <div align="center">
+<h1>🏆 Featured Certifications 🏆</h1>
 
 <table>
   <tr>
@@ -69,8 +67,8 @@ My main interests include **web and mobile development**, **cybersecurity**, and
 </table>
 
 </div>
-
 > 💡 I've completed over 50 certifications in technology, focusing on Web Development and related tools.
+
 
 
 
