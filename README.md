@@ -26,6 +26,9 @@ My main interests include **web and mobile development**, **cybersecurity**, and
 
 ### 🏆 Featured Certifications
 
+
+<div align="center">
+
 <table>
   <tr>
     <td>📱</td>
@@ -64,6 +67,8 @@ My main interests include **web and mobile development**, **cybersecurity**, and
     <td><strong>Desenvolvimento Web Full Stack</strong><br/>Fundação Bradesco</td>
   </tr>
 </table>
+
+</div>
 
 > 💡 I've completed over 50 certifications in technology, focusing on Web Development and related tools.
 
