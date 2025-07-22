@@ -3,7 +3,7 @@
 
 <p align="center">
  • <a href="mailto:moisessouzasantos001@gmail.com">✉️ E-mail</a> •
-  <a href="https://www.linkedin.com/in/mois%C3%A9s-souza-6746a3190/">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/mois%C3%A9s-souza-santos/">💼 LinkedIn</a> •
   <a href="https://portfolio-moises01.netlify.app/">🧑‍💼 Portfolio</a> •
   <a href="https://www.youtube.com/@MoisesSouza577">🔴 Youtube</a> •
   <a href="https://wa.me/5538998189765">📱 WhatsApp</a>
@@ -141,31 +141,82 @@ My main interests include **web and mobile development**, **cybersecurity**, and
   <li>  
     <strong>🌐 <a href="https://github.com/LinuxEater/new_portfolio_django" target="_blank">new_portfolio_django</a></strong><br/>
     A personal portfolio website built with Django, featuring a fully responsive design, dynamic content management, and clean UI for showcasing skills and projects.<br/>
-    <em>Stack:</em> Django, Python, HTML, CSS
+    <em>Stack:</em> Django, Python, HTML, CSS<br/><br/>
+    <img src="https://via.placeholder.com/700x400?text=Project+Screenshot+Portfolio" alt="new_portfolio_django" />
   </li><br/>
 
   <li>
     <strong>🤖 <a href="https://github.com/LinuxEater/Webscraping" target="_blank">Webscraping</a></strong><br/>
     Collection of web scraping scripts and automation tools designed to gather and analyze data from diverse websites efficiently.<br/>
-    <em>Stack:</em> Python, Selenium, BeautifulSoup
+    <em>Stack:</em> Python, Selenium, BeautifulSoup<br/><br/>
+    <img src="https://via.placeholder.com/700x400?text=Webscraping+Project" alt="Webscraping" />
   </li><br/>
 
   <li>
     <strong>🚗 <a href="https://github.com/LinuxEater/CarStore_Project" target="_blank">CarStore_Project</a></strong><br/>
     E-commerce platform for buying and selling cars, featuring user authentication, product management, and a user-friendly interface.<br/>
-    <em>Stack:</em> Django, Python, JavaScript, Bootstrap
+    <em>Stack:</em> Django, Python, JavaScript, Bootstrap<br/><br/>
+    <img src="https://via.placeholder.com/700x400?text=CarStore+Project" alt="CarStore Project" />
   </li><br/>
 
   <li>
     <strong>📊 <a href="https://github.com/LinuxEater/Investments-Dashboard" target="_blank">Investments-Dashboard</a></strong><br/>
     Interactive dashboard application for monitoring investment portfolios with real-time data visualization and analytics.<br/>
-    <em>Stack:</em> React, Chart.js, Tailwind CSS
+    <em>Stack:</em> React, Chart.js, Tailwind CSS<br/><br/>
+    <img src="https://via.placeholder.com/700x400?text=Investments+Dashboard" alt="Investments Dashboard" />
   </li><br/>
 
   <li>
     <strong>📰 <a href="https://github.com/LinuxEater/Blog-P-News" target="_blank">Blog-P-News</a></strong><br/>
     Blogging platform focused on news articles, equipped with content management features and a clean, readable layout.<br/>
-    <em>Stack:</em> Django, HTML, CSS
+    <em>Stack:</em> Django, HTML, CSS<br/><br/>
+    <img src="https://via.placeholder.com/700x400?text=Blog+P+News" alt="Blog-P-News" />
+  </li>
+
+</ul>
+
+</div>
+### 🚀 Featured Projects
+
+<div align="center">
+
+<p>Here are some of my most recent and notable projects with detailed descriptions:</p>
+
+<ul style="list-style-type:none; padding-left:0; max-width:700px; text-align:left;">
+
+  <li>  
+    <strong>🌐 <a href="https://github.com/LinuxEater/new_portfolio_django" target="_blank">new_portfolio_django</a></strong><br/>
+    <img src="https://via.placeholder.com/700x400?text=Project+Screenshot+Portfolio" alt="new_portfolio_django" />
+    A personal portfolio website built with Django, featuring a fully responsive design, dynamic content management, and clean UI for showcasing skills and projects.<br/>
+    <em>Stack:</em> Django, Python, HTML, CSS<br/><br/>
+  </li><br/>
+
+  <li>
+    <strong>🤖 <a href="https://github.com/LinuxEater/Webscraping" target="_blank">Webscraping</a></strong><br/>
+    <img src="https://via.placeholder.com/700x400?text=Webscraping+Project" alt="Webscraping" />
+    Collection of web scraping scripts and automation tools designed to gather and analyze data from diverse websites efficiently.<br/>
+    <em>Stack:</em> Python, Selenium, BeautifulSoup<br/><br/>
+  </li><br/>
+
+  <li>
+    <strong>🚗 <a href="https://github.com/LinuxEater/CarStore_Project" target="_blank">CarStore_Project</a></strong><br/>
+    <img src="https://via.placeholder.com/700x400?text=CarStore+Project" alt="CarStore Project" />
+    E-commerce platform for buying and selling cars, featuring user authentication, product management, and a user-friendly interface.<br/>
+    <em>Stack:</em> Django, Python, JavaScript, Bootstrap<br/><br/>
+  </li><br/>
+
+  <li>
+    <strong>📊 <a href="https://github.com/LinuxEater/Investments-Dashboard" target="_blank">Investments-Dashboard</a></strong><br/>
+    <img src="https://via.placeholder.com/700x400?text=Investments+Dashboard" alt="Investments Dashboard" />
+    Interactive dashboard application for monitoring investment portfolios with real-time data visualization and analytics.<br/>
+    <em>Stack:</em> React, Chart.js, Tailwind CSS<br/><br/>
+  </li><br/>
+
+  <li>
+    <strong>📰 <a href="https://github.com/LinuxEater/Blog-P-News" target="_blank">Blog-P-News</a></strong><br/>
+    <img src="https://via.placeholder.com/700x400?text=Blog+P+News" alt="Blog-P-News" />
+    Blogging platform focused on news articles, equipped with content management features and a clean, readable layout.<br/>
+    <em>Stack:</em> Django, HTML, CSS<br/><br/>
   </li>
 
 </ul>
@@ -198,7 +249,7 @@ Stay tuned with my latest development content on YouTube:
 If you're interested in working together, collaborating or just want to say hi:
 
 📧 **moisessouzasantos001@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/mois%C3%A9s-souza-6746a3190/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mois%C3%A9s-souza-santos/)  
 📱 [WhatsApp](https://wa.me/5538998189765)  
 🌐 [Portfolio](https://portfolio-moises01.netlify.app/)
 
