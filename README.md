@@ -140,9 +140,9 @@ My main interests include **web and mobile development**, **cybersecurity**, and
 
   <li>  
     <strong>🌐 <a href="https://github.com/LinuxEater/new_portfolio_django" target="_blank">new_portfolio_django</a></strong><br/>
+    <img src="https://via.placeholder.com/700x400?text=Project+Screenshot+Portfolio" alt="new_portfolio_django" /><br/>
     A personal portfolio website built with Django, featuring a fully responsive design, dynamic content management, and clean UI for showcasing skills and projects.<br/>
     <em>Stack:</em> Django, Python, HTML, CSS<br/><br/>
-    <img src="https://via.placeholder.com/700x400?text=Project+Screenshot+Portfolio" alt="new_portfolio_django" />
   </li><br/>
 
   <li>
