@@ -132,57 +132,45 @@ My main interests include **web and mobile development**, **cybersecurity**, and
 
 ### 🚀 Featured Projects
 
-Here are some of my most notable projects, with insights into how I built and improved them using my preferred tech stack:
+<div align="center">
 
-- 🧠 **[Employees-Django-System](https://github.com/LinuxEater/Employees-Django-System)**  
-  A Django-based system for managing employee records, with authentication and CRUD operations.  
-  **Stack:** Django, Python, Bootstrap, SQLite  
-  **Highlights:** Improved query efficiency, clean UI layout.
+<p>Here are some of my most recent and notable projects with detailed descriptions:</p>
 
-- 📱 **[TODO-Django-app](https://github.com/LinuxEater/TODO-Django-app)**  
-  A task management app with authentication and CRUD capabilities.  
-  **Stack:** Django, HTML, CSS  
-  **Highlights:** Streamlined user experience and added task filtering.
+<ul style="list-style-type:none; padding-left:0; max-width:700px; text-align:left;">
 
-- 🌐 **[Scrapper-site](https://github.com/LinuxEater/Scrapper-site)**  
-  Python-based web scraper for extracting data from websites.  
-  **Stack:** Python, Selenium, BeautifulSoup  
-  **Highlights:** Added dynamic scraping and data export options.
+  <li>  
+    <strong>🌐 <a href="https://github.com/LinuxEater/new_portfolio_django" target="_blank">new_portfolio_django</a></strong><br/>
+    A personal portfolio website built with Django, featuring a fully responsive design, dynamic content management, and clean UI for showcasing skills and projects.<br/>
+    <em>Stack:</em> Django, Python, HTML, CSS
+  </li><br/>
 
-- 📊 **[Crypto-Tracker](https://github.com/LinuxEater/Crypto-Tracker)**  
-  React app to monitor cryptocurrency prices in real time.  
-  **Stack:** React, Tailwind CSS, Axios  
-  **Highlights:** Smooth UX with API integration and live data.
+  <li>
+    <strong>🤖 <a href="https://github.com/LinuxEater/Webscraping" target="_blank">Webscraping</a></strong><br/>
+    Collection of web scraping scripts and automation tools designed to gather and analyze data from diverse websites efficiently.<br/>
+    <em>Stack:</em> Python, Selenium, BeautifulSoup
+  </li><br/>
 
-- 🔐 **[Password-Strength-Checker](https://github.com/LinuxEater/Password-Strength-Checker)**  
-  Checks password strength using entropy and provides visual feedback.  
-  **Stack:** JavaScript, HTML, CSS  
-  **Highlights:** Educational tool with real-time validation.
+  <li>
+    <strong>🚗 <a href="https://github.com/LinuxEater/CarStore_Project" target="_blank">CarStore_Project</a></strong><br/>
+    E-commerce platform for buying and selling cars, featuring user authentication, product management, and a user-friendly interface.<br/>
+    <em>Stack:</em> Django, Python, JavaScript, Bootstrap
+  </li><br/>
 
-- 📝 **[Notes-App](https://github.com/LinuxEater/Notes-App)**  
-  Simple notes app supporting Markdown and tags.  
-  **Stack:** JavaScript, HTML, CSS  
-  **Highlights:** Local storage, clean design, markdown support.
+  <li>
+    <strong>📊 <a href="https://github.com/LinuxEater/Investments-Dashboard" target="_blank">Investments-Dashboard</a></strong><br/>
+    Interactive dashboard application for monitoring investment portfolios with real-time data visualization and analytics.<br/>
+    <em>Stack:</em> React, Chart.js, Tailwind CSS
+  </li><br/>
 
-- 🛍️ **[Mini-Ecommerce](https://github.com/LinuxEater/Mini-Ecommerce)**  
-  A basic e-commerce interface with cart and product listing.  
-  **Stack:** React, Tailwind CSS, Redux  
-  **Highlights:** Redux-based cart system and responsive design.
+  <li>
+    <strong>📰 <a href="https://github.com/LinuxEater/Blog-P-News" target="_blank">Blog-P-News</a></strong><br/>
+    Blogging platform focused on news articles, equipped with content management features and a clean, readable layout.<br/>
+    <em>Stack:</em> Django, HTML, CSS
+  </li>
 
-- 📚 **[Book-Search-App](https://github.com/LinuxEater/Book-Search-App)**  
-  Allows users to search books via Google Books API and save favorites.  
-  **Stack:** React, TypeScript, Styled Components  
-  **Highlights:** Clean UI and local caching.
+</ul>
 
-- 🧪 **[Form-Validator](https://github.com/LinuxEater/Form-Validator)**  
-  Client-side form validation script for HTML forms.  
-  **Stack:** JavaScript, CSS  
-  **Highlights:** Real-time validation and reusable logic.
-
-- 📦 **[API-Dashboard](https://github.com/LinuxEater/API-Dashboard)**  
-  Dashboard for API data monitoring and charting.  
-  **Stack:** Next.js, Chart.js, Tailwind CSS  
-  **Highlights:** Data visualization and SSR optimizations.
+</div>
 
 ---
 
