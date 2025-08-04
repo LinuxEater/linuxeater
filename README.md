@@ -133,45 +133,76 @@ My main interests include **web and mobile development**, **cybersecurity**, and
 <div align="center">
 
 <p>Here are some of my most recent and notable projects with detailed descriptions:</p>
-
 <ul style="list-style-type:none; padding-left:0; max-width:700px; text-align:left;">
 
   <li>  
-    <img src="https://via.placeholder.com/700x400?text=Project+Screenshot+Portfolio" alt="new_portfolio_django" /><br/>
-    <strong>🌐 <a href="https://github.com/LinuxEater/new_portfolio_django" target="_blank">new_portfolio_django</a></strong><br/>
-    A personal portfolio website built with Django, featuring a fully responsive design, dynamic content management, and clean UI for showcasing skills and projects.<br/>
-    <em>Stack:</em> Django, Python, HTML, CSS<br/><br/>
+    <img src="./screenshots/blog.jpg" alt="Blog News Screenshot" /><br/>
+    <strong>🌐 <a href="https://github.com/LinuxEater/blog-news-project" target="_blank">Blog News</a></strong><br/>
+    A blog platform for publishing news articles. Features category-based organization, image attachments, admin content management, and a clean responsive interface.<br/>
+    <em>Technologies used:</em>
+    <ul>
+      <li><strong>Django:</strong> backend logic, URL routing, admin interface, models, and views</li>
+      <li><strong>Python:</strong> business logic and data modeling</li>
+      <li><strong>HTML/CSS:</strong> static structure and styling for blog layout</li>
+      <li><strong>Bootstrap:</strong> responsive design framework (optional usage)</li>
+    </ul><br/>
   </li><br/>
 
   <li>
-    <img src="https://via.placeholder.com/700x400?text=Webscraping+Project" alt="Webscraping" /><br/>
-    <strong>🤖 <a href="https://github.com/LinuxEater/Webscraping" target="_blank">Webscraping</a></strong><br/>
-    Collection of web scraping scripts and automation tools designed to gather and analyze data from diverse websites efficiently.<br/>
-    <em>Stack:</em> Python, Selenium, BeautifulSoup<br/><br/>
+    <img src="./screenshots/carstore.jpg" alt="CarStore Screenshot" /><br/>
+    <strong>🚗 <a href="https://github.com/LinuxEater/Carstore-Project" target="_blank">Carstore Project</a></strong><br/>
+    A car dealership management platform where users can browse, filter, and view cars with specs and images. Includes a Django admin panel for product CRUD.<br/>
+    <em>Technologies used:</em>
+    <ul>
+      <li><strong>Django:</strong> database ORM, admin site, product listings, authentication</li>
+      <li><strong>Python:</strong> core backend implementation</li>
+      <li><strong>HTML/CSS:</strong> layout and presentation</li>
+      <li><strong>Bootstrap:</strong> mobile-first responsive UI</li>
+    </ul><br/>
   </li><br/>
 
   <li>
-    <img src="https://via.placeholder.com/700x400?text=CarStore+Project" alt="CarStore Project" /><br/>
-    <strong>🚗 <a href="https://github.com/LinuxEater/CarStore_Project" target="_blank">CarStore_Project</a></strong><br/>
-    E-commerce platform for buying and selling cars, featuring user authentication, product management, and a user-friendly interface.<br/>
-    <em>Stack:</em> Django, Python, JavaScript, Bootstrap<br/><br/>
+    <img src="./screenshots/ecommerce.jpg" alt="Clothes Ecommerce Screenshot" /><br/>
+    <strong>🛒 <a href="https://github.com/LinuxEater/full-ecommerce-clothes" target="_blank">Clothes Ecommerce</a></strong><br/>
+    A fully functional clothing e-commerce store. Includes user registration/login, cart system, checkout flow, and product catalog with stock management.<br/>
+    <em>Technologies used:</em>
+    <ul>
+      <li><strong>Django:</strong> authentication system, product models, shopping cart, admin</li>
+      <li><strong>Python:</strong> backend logic and calculations</li>
+      <li><strong>JavaScript:</strong> frontend interactivity (cart updates, dynamic UI)</li>
+      <li><strong>Bootstrap:</strong> modern responsive UI components</li>
+      <li><strong>HTML/CSS:</strong> layout and custom styling</li>
+    </ul><br/>
   </li><br/>
 
   <li>
-    <img src="https://via.placeholder.com/700x400?text=Investments+Dashboard" alt="Investments Dashboard" /><br/>
-    <strong>📊 <a href="https://github.com/LinuxEater/Investments-Dashboard" target="_blank">Investments-Dashboard</a></strong><br/>
-    Interactive dashboard application for monitoring investment portfolios with real-time data visualization and analytics.<br/>
-    <em>Stack:</em> React, Chart.js, Tailwind CSS<br/><br/>
+    <img src="./screenshots/arquivos.jpg" alt="File Converter Screenshot" /><br/>
+    <strong>🧩 <a href="https://github.com/LinuxEater/conversor-de-arquivos-1.0" target="_blank">File Converter Micro SaaS</a></strong><br/>
+    A lightweight SaaS tool for converting files between formats (PDF, DOCX, PNG, etc.). Built with simplicity, ease of use, and scalability in mind.<br/>
+    <em>Technologies used:</em>
+    <ul>
+      <li><strong>Django:</strong> file upload handling, background processing, interface logic</li>
+      <li><strong>Python:</strong> file conversion scripts and format handling</li>
+      <li><strong>JavaScript:</strong> upload progress, dynamic UI interactions</li>
+      <li><strong>HTML/CSS:</strong> user interface layout and form styling</li>
+    </ul><br/>
   </li><br/>
 
   <li>
-    <img src="https://via.placeholder.com/700x400?text=Blog+P+News" alt="Blog-P-News" /><br/>
-    <strong>📰 <a href="https://github.com/LinuxEater/Blog-P-News" target="_blank">Blog-P-News</a></strong><br/>
-    Blogging platform focused on news articles, equipped with content management features and a clean, readable layout.<br/>
-    <em>Stack:</em> Django, HTML, CSS<br/><br/>
+    <img src="./screenshots/Screenshot 2025-08-04 084716.jpg" alt="Investments Dashboard Screenshot" /><br/>
+    <strong>📊 <a href="https://github.com/LinuxEater/investments-dashboard" target="_blank">Investments Dashboard</a></strong><br/>
+    An interactive web dashboard for visualizing investment data in real time. Offers dynamic charts, data filtering, and responsive layout for both desktop and mobile.<br/>
+    <em>Technologies used:</em>
+    <ul>
+      <li><strong>React:</strong> component-based SPA architecture and reactive UI</li>
+      <li><strong>Chart.js:</strong> rendering interactive data visualizations</li>
+      <li><strong>Tailwind CSS:</strong> utility-first styling for custom layout and responsiveness</li>
+      <li><strong>JavaScript (ES6+):</strong> state management and dynamic interactions</li>
+    </ul><br/>
   </li>
 
 </ul>
+
 
 </div>
 
