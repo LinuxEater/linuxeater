@@ -134,76 +134,81 @@ My main interests include **web and mobile development**, **cybersecurity**, and
 
 <p>Here are some of my most recent and notable projects with detailed descriptions:</p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; max-width: 1000px;">
+<div align="center">
 
-  <div style="width: 48%; text-align: left;">
-    <img src="./screenshots/blog.jpg" alt="Blog News Screenshot" style="width: 100%; border-radius: 8px;" />
-    <strong>🌐 <a href="https://github.com/LinuxEater/blog-news-project" target="_blank">Blog News</a></strong><br/>
-    A blog platform for publishing news articles. Features category-based organization, image attachments, admin content management, and a clean responsive interface.<br/>
-    <strong>Technologies used:</strong>
-    <ul>
-      <li>Django</li>
-      <li>Python</li>
-      <li>HTML/CSS</li>
-      <li>Bootstrap (optional)</li>
-    </ul>
-  </div>
-
-  <div style="width: 48%; text-align: left;">
-    <img src="./screenshots/carstore.jpg" alt="CarStore Screenshot" style="width: 100%; border-radius: 8px;" />
-    <strong>🚗 <a href="https://github.com/LinuxEater/Carstore-Project" target="_blank">Carstore Project</a></strong><br/>
-    Car dealership platform with product listing, filtering, and admin panel management.<br/>
-    <strong>Technologies used:</strong>
-    <ul>
-      <li>Django</li>
-      <li>Python</li>
-      <li>HTML/CSS</li>
-      <li>Bootstrap</li>
-    </ul>
-  </div>
-
-  <div style="width: 48%; text-align: left;">
-    <img src="./screenshots/ecommerce.jpg" alt="Clothes Ecommerce Screenshot" style="width: 100%; border-radius: 8px;" />
-    <strong>🛒 <a href="https://github.com/LinuxEater/full-ecommerce-clothes" target="_blank">Clothes Ecommerce</a></strong><br/>
-    Fully featured ecommerce site with cart, authentication, and product management.<br/>
-    <strong>Technologies used:</strong>
-    <ul>
-      <li>Django</li>
-      <li>Python</li>
-      <li>JavaScript</li>
-      <li>Bootstrap</li>
-      <li>HTML/CSS</li>
-    </ul>
-  </div>
-
-  <div style="width: 48%; text-align: left;">
-    <img src="./screenshots/Screenshot 2025-08-04 084716.jpg" alt="Investments Dashboard Screenshot" style="width: 100%; border-radius: 8px;" />
-    <strong>📊 <a href="https://github.com/LinuxEater/investments-dashboard" target="_blank">Investments Dashboard</a></strong><br/>
-    Interactive real-time investment visualization dashboard.<br/>
-    <strong>Technologies used:</strong>
-    <ul>
-      <li>React</li>
-      <li>Chart.js</li>
-      <li>Tailwind CSS</li>
-      <li>JavaScript (ES6+)</li>
-    </ul>
-  </div>
-
-  <div style="width: 48%; text-align: left; margin-left: auto; margin-right: auto;">
-    <img src="./screenshots/arquivos.jpg" alt="File Converter Screenshot" style="width: 100%; border-radius: 8px;" />
-    <strong>🧩 <a href="https://github.com/LinuxEater/conversor-de-arquivos-1.0" target="_blank">File Converter Micro SaaS</a></strong><br/>
-    Simple SaaS platform for converting files between formats.<br/>
-    <strong>Technologies used:</strong>
-    <ul>
-      <li>Django</li>
-      <li>Python</li>
-      <li>JavaScript</li>
-      <li>HTML/CSS</li>
-    </ul>
-  </div>
+## 🏆 Featured Projects
 
 </div>
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./screenshots/blog.jpg" alt="Blog News Screenshot" width="100%" /><br/>
+      <strong>🌐 <a href="https://github.com/LinuxEater/blog-news-project" target="_blank">Blog News</a></strong><br/>
+      A blog platform for publishing news articles. Features category-based organization, image attachments, admin content management, and a clean responsive interface.<br/>
+      <strong>Technologies used:</strong>
+      <ul>
+        <li>Django</li>
+        <li>Python</li>
+        <li>HTML/CSS</li>
+        <li>Bootstrap (optional)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./screenshots/carstore.jpg" alt="CarStore Screenshot" width="100%" /><br/>
+      <strong>🚗 <a href="https://github.com/LinuxEater/Carstore-Project" target="_blank">Carstore Project</a></strong><br/>
+      Car dealership platform with product listing, filtering, and admin panel management.<br/>
+      <strong>Technologies used:</strong>
+      <ul>
+        <li>Django</li>
+        <li>Python</li>
+        <li>HTML/CSS</li>
+        <li>Bootstrap</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./screenshots/ecommerce.jpg" alt="Clothes Ecommerce Screenshot" width="100%" /><br/>
+      <strong>🛒 <a href="https://github.com/LinuxEater/full-ecommerce-clothes" target="_blank">Clothes Ecommerce</a></strong><br/>
+      Fully featured ecommerce site with cart, authentication, and product management.<br/>
+      <strong>Technologies used:</strong>
+      <ul>
+        <li>Django</li>
+        <li>Python</li>
+        <li>JavaScript</li>
+        <li>Bootstrap</li>
+        <li>HTML/CSS</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./screenshots/Screenshot 2025-08-04 084716.jpg" alt="Investments Dashboard Screenshot" width="100%" /><br/>
+      <strong>📊 <a href="https://github.com/LinuxEater/investments-dashboard" target="_blank">Investments Dashboard</a></strong><br/>
+      Interactive real-time investment visualization dashboard.<br/>
+      <strong>Technologies used:</strong>
+      <ul>
+        <li>React</li>
+        <li>Chart.js</li>
+        <li>Tailwind CSS</li>
+        <li>JavaScript (ES6+)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="./screenshots/arquivos.jpg" alt="File Converter Screenshot" width="50%" /><br/>
+      <strong>🧩 <a href="https://github.com/LinuxEater/conversor-de-arquivos-1.0" target="_blank">File Converter Micro SaaS</a></strong><br/>
+      Simple SaaS platform for converting files between formats.<br/>
+      <strong>Technologies used:</strong>
+      <ul>
+        <li>Django</li>
+        <li>Python</li>
+        <li>JavaScript</li>
+        <li>HTML/CSS</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 </div>
