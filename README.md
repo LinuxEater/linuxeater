@@ -135,7 +135,7 @@ My main interests include **web and mobile development**, **cybersecurity**, and
 <p>Here are some of my most recent and notable projects with detailed descriptions:</p>
 <ul style="list-style-type:none; padding-left:0; max-width:700px; text-align:left;">
 
-  <li>  
+  <li style="list-style:none;">  
     <img src="./screenshots/blog.jpg" alt="Blog News Screenshot" /><br/>
     <strong>🌐 <a href="https://github.com/LinuxEater/blog-news-project" target="_blank">Blog News</a></strong><br/>
     A blog platform for publishing news articles. Features category-based organization, image attachments, admin content management, and a clean responsive interface.<br/>
@@ -148,7 +148,7 @@ My main interests include **web and mobile development**, **cybersecurity**, and
     </ul><br/>
   </li><br/>
 
-  <li>
+  <li style="list-style:none;">
     <img src="./screenshots/carstore.jpg" alt="CarStore Screenshot" /><br/>
     <strong>🚗 <a href="https://github.com/LinuxEater/Carstore-Project" target="_blank">Carstore Project</a></strong><br/>
     A car dealership management platform where users can browse, filter, and view cars with specs and images. Includes a Django admin panel for product CRUD.<br/>
@@ -161,7 +161,7 @@ My main interests include **web and mobile development**, **cybersecurity**, and
     </ul><br/>
   </li><br/>
 
-  <li>
+  <li style="list-style:none;">
     <img src="./screenshots/ecommerce.jpg" alt="Clothes Ecommerce Screenshot" /><br/>
     <strong>🛒 <a href="https://github.com/LinuxEater/full-ecommerce-clothes" target="_blank">Clothes Ecommerce</a></strong><br/>
     A fully functional clothing e-commerce store. Includes user registration/login, cart system, checkout flow, and product catalog with stock management.<br/>
@@ -175,7 +175,7 @@ My main interests include **web and mobile development**, **cybersecurity**, and
     </ul><br/>
   </li><br/>
 
-  <li>
+  <li style="list-style:none;">
     <img src="./screenshots/arquivos.jpg" alt="File Converter Screenshot" /><br/>
     <strong>🧩 <a href="https://github.com/LinuxEater/conversor-de-arquivos-1.0" target="_blank">File Converter Micro SaaS</a></strong><br/>
     A lightweight SaaS tool for converting files between formats (PDF, DOCX, PNG, etc.). Built with simplicity, ease of use, and scalability in mind.<br/>
@@ -188,7 +188,7 @@ My main interests include **web and mobile development**, **cybersecurity**, and
     </ul><br/>
   </li><br/>
 
-  <li>
+  <li style="list-style:none;">
     <img src="./screenshots/Screenshot 2025-08-04 084716.jpg" alt="Investments Dashboard Screenshot" /><br/>
     <strong>📊 <a href="https://github.com/LinuxEater/investments-dashboard" target="_blank">Investments Dashboard</a></strong><br/>
     An interactive web dashboard for visualizing investment data in real time. Offers dynamic charts, data filtering, and responsive layout for both desktop and mobile.<br/>
