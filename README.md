@@ -137,65 +137,68 @@ My main interests include **web and mobile development**, **cybersecurity**, and
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; max-width: 1000px;">
 
   <div style="width: 48%; text-align: left;">
-    <img src="./screenshots/blog.jpg" alt="new_portfolio_django" style="width: 100%; border-radius: 8px;" />
-    <strong>🌐 <a href="./screenshots/arquivos.jpg" target="_blank">Blog News</a></strong><br/>
-    A personal blog-style portfolio built with Django. Features dynamic content control, responsive design, and clean interface.<br/>
-    <strong>Stack:</strong>
+    <img src="./screenshots/blog.jpg" alt="Blog News Screenshot" style="width: 100%; border-radius: 8px;" />
+    <strong>🌐 <a href="https://github.com/LinuxEater/blog-news-project" target="_blank">Blog News</a></strong><br/>
+    A blog platform for publishing news articles. Features category-based organization, image attachments, admin content management, and a clean responsive interface.<br/>
+    <strong>Technologies used:</strong>
     <ul>
       <li>Django</li>
       <li>Python</li>
-      <li>HTML5</li>
-      <li>CSS3</li>
+      <li>HTML/CSS</li>
+      <li>Bootstrap (optional)</li>
     </ul>
   </div>
 
   <div style="width: 48%; text-align: left;">
-    <img src="./screenshots/carstore.jpg" alt="Webscraping" style="width: 100%; border-radius: 8px;" />
-    <strong>🤖 <a href="https://github.com/LinuxEater/Webscraping" target="_blank">Virtual CarStore</a></strong><br/>
-    A car store simulator using web scraping automation to fetch, store, and display vehicle data from public sources.<br/>
-    <strong>Stack:</strong>
+    <img src="./screenshots/carstore.jpg" alt="CarStore Screenshot" style="width: 100%; border-radius: 8px;" />
+    <strong>🚗 <a href="https://github.com/LinuxEater/Carstore-Project" target="_blank">Carstore Project</a></strong><br/>
+    Car dealership platform with product listing, filtering, and admin panel management.<br/>
+    <strong>Technologies used:</strong>
     <ul>
+      <li>Django</li>
       <li>Python</li>
-      <li>Selenium</li>
-      <li>BeautifulSoup</li>
+      <li>HTML/CSS</li>
+      <li>Bootstrap</li>
     </ul>
   </div>
 
   <div style="width: 48%; text-align: left;">
-    <img src="./screenshots/ecommerce.jpg" alt="Ecommerce Project" style="width: 100%; border-radius: 8px;" />
-    <strong>🚗 <a href="https://github.com/LinuxEater/full-ecommerce-clothes" target="_blank">Ecommerce</a></strong><br/>
-    Complete ecommerce website with login, product management, and shopping interface.<br/>
-    <strong>Stack:</strong>
+    <img src="./screenshots/ecommerce.jpg" alt="Clothes Ecommerce Screenshot" style="width: 100%; border-radius: 8px;" />
+    <strong>🛒 <a href="https://github.com/LinuxEater/full-ecommerce-clothes" target="_blank">Clothes Ecommerce</a></strong><br/>
+    Fully featured ecommerce site with cart, authentication, and product management.<br/>
+    <strong>Technologies used:</strong>
     <ul>
       <li>Django</li>
       <li>Python</li>
       <li>JavaScript</li>
-      <li>Bootstrap 5</li>
+      <li>Bootstrap</li>
+      <li>HTML/CSS</li>
     </ul>
   </div>
 
   <div style="width: 48%; text-align: left;">
-    <img src="./screenshots/Screenshot 2025-08-04 084716.jpg" alt="Investments Dashboard" style="width: 100%; border-radius: 8px;" />
-    <strong>📊 <a href="https://github.com/LinuxEater/Investments-Dashboard" target="_blank">Investments Dashboard</a></strong><br/>
-    A real-time dashboard to track and visualize investments data.<br/>
-    <strong>Stack:</strong>
+    <img src="./screenshots/Screenshot 2025-08-04 084716.jpg" alt="Investments Dashboard Screenshot" style="width: 100%; border-radius: 8px;" />
+    <strong>📊 <a href="https://github.com/LinuxEater/investments-dashboard" target="_blank">Investments Dashboard</a></strong><br/>
+    Interactive real-time investment visualization dashboard.<br/>
+    <strong>Technologies used:</strong>
     <ul>
-      <li>React.js</li>
+      <li>React</li>
       <li>Chart.js</li>
       <li>Tailwind CSS</li>
+      <li>JavaScript (ES6+)</li>
     </ul>
   </div>
 
-  <div style="width: 48%; text-align: left;">
-    <img src="./screenshots/arquivos.jpg" alt="Files Converter Micro SaaS" style="width: 100%; border-radius: 8px;" />
-    <strong>📰 <a href="https://github.com/LinuxEater/Blog-P-News" target="_blank">Files Converter Micro SaaS</a></strong><br/>
-    Lightweight micro SaaS for converting files online with clean interface.<br/>
-    <strong>Stack:</strong>
+  <div style="width: 48%; text-align: left; margin-left: auto; margin-right: auto;">
+    <img src="./screenshots/arquivos.jpg" alt="File Converter Screenshot" style="width: 100%; border-radius: 8px;" />
+    <strong>🧩 <a href="https://github.com/LinuxEater/conversor-de-arquivos-1.0" target="_blank">File Converter Micro SaaS</a></strong><br/>
+    Simple SaaS platform for converting files between formats.<br/>
+    <strong>Technologies used:</strong>
     <ul>
       <li>Django</li>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>File Handling APIs</li>
+      <li>Python</li>
+      <li>JavaScript</li>
+      <li>HTML/CSS</li>
     </ul>
   </div>
 
