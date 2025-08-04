@@ -143,7 +143,7 @@ My main interests include **web and mobile development**, **cybersecurity**, and
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="./screenshots/blog.jpg" alt="Blog News Screenshot" width="100%" /><br/>
+      <img src="./screenshots/blog.jpg" alt="Blog News Screenshot" width="100%" style="border-radius: 8px;" /><br/>
       <strong>🌐 <a href="https://github.com/LinuxEater/blog-news-project" target="_blank">Blog News</a></strong><br/>
       A blog platform for publishing news articles. Features category-based organization, image attachments, admin content management, and a clean responsive interface.<br/>
       <strong>Technologies used:</strong>
@@ -155,7 +155,7 @@ My main interests include **web and mobile development**, **cybersecurity**, and
       </ul>
     </td>
     <td width="50%" valign="top">
-      <img src="./screenshots/carstore.jpg" alt="CarStore Screenshot" width="100%" /><br/>
+      <img src="./screenshots/carstore.jpg" alt="CarStore Screenshot" width="100%" style="border-radius: 8px;" /><br/>
       <strong>🚗 <a href="https://github.com/LinuxEater/Carstore-Project" target="_blank">Carstore Project</a></strong><br/>
       Car dealership platform with product listing, filtering, and admin panel management.<br/>
       <strong>Technologies used:</strong>
@@ -169,7 +169,7 @@ My main interests include **web and mobile development**, **cybersecurity**, and
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="./screenshots/ecommerce.jpg" alt="Clothes Ecommerce Screenshot" width="100%" /><br/>
+      <img src="./screenshots/ecommerce.jpg" alt="Clothes Ecommerce Screenshot" width="100%" style="border-radius: 8px;" /><br/>
       <strong>🛒 <a href="https://github.com/LinuxEater/full-ecommerce-clothes" target="_blank">Clothes Ecommerce</a></strong><br/>
       Fully featured ecommerce site with cart, authentication, and product management.<br/>
       <strong>Technologies used:</strong>
@@ -182,7 +182,7 @@ My main interests include **web and mobile development**, **cybersecurity**, and
       </ul>
     </td>
     <td width="50%" valign="top">
-      <img src="./screenshots/Screenshot 2025-08-04 084716.jpg" alt="Investments Dashboard Screenshot" width="100%" /><br/>
+      <img src="./screenshots/Screenshot 2025-08-04 084716.jpg" alt="Investments Dashboard Screenshot" width="100%" style="border-radius: 8px;" /><br/>
       <strong>📊 <a href="https://github.com/LinuxEater/investments-dashboard" target="_blank">Investments Dashboard</a></strong><br/>
       Interactive real-time investment visualization dashboard.<br/>
       <strong>Technologies used:</strong>
@@ -195,8 +195,8 @@ My main interests include **web and mobile development**, **cybersecurity**, and
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="./screenshots/arquivos.jpg" alt="File Converter Screenshot" width="50%" /><br/>
+    <td width="50%" valign="top">
+      <img src="./screenshots/arquivos.jpg" alt="File Converter Screenshot" width="100%" style="border-radius: 8px;" /><br/>
       <strong>🧩 <a href="https://github.com/LinuxEater/conversor-de-arquivos-1.0" target="_blank">File Converter Micro SaaS</a></strong><br/>
       Simple SaaS platform for converting files between formats.<br/>
       <strong>Technologies used:</strong>
@@ -207,8 +207,21 @@ My main interests include **web and mobile development**, **cybersecurity**, and
         <li>HTML/CSS</li>
       </ul>
     </td>
+    <td width="50%" valign="top">
+      <img src="./screenshots/blogprojects.jpg" alt="Blog Projects Screenshot" width="100%" style="border-radius: 8px;" /><br/>
+      <strong>📝 <a href="https://github.com/LinuxEater/Blog-Projects-Development" target="_blank">Blog Projects Dev</a></strong><br/>
+      Blog system with authentication, image upload, post categories, and comment system.<br/>
+      <strong>Technologies used:</strong>
+      <ul>
+        <li>Django</li>
+        <li>Python</li>
+        <li>Bootstrap</li>
+        <li>HTML/CSS</li>
+      </ul>
+    </td>
   </tr>
 </table>
+
 
 
 </div>
