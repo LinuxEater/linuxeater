@@ -128,16 +128,11 @@ My main interests include **web and mobile development**, **cybersecurity**, and
 
 ---
 
-### 🚀 Featured Projects
-
-<div align="center">
-
-<p>Here are some of my most recent and notable projects with detailed descriptions:</p>
-
 <div align="center">
 
 ## 🏆 Featured Projects
 
+<p>Here are some of my most recent and notable projects with detailed descriptions:</p>
 </div>
 
 <table>
